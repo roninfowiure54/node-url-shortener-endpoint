@@ -1,0 +1,6 @@
+{
+  "name": "node-url-shortener-endpoint",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js"
+}
